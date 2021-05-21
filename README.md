@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Computing  
 ![Github stats](https://github-readme-stats.vercel.app/api?username=caigentan&theme=highcontrast&show_icons=true&count_private=true)
 ### 🌱I am...
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada)  
+### ⚡ Working Time...
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caigentan)](https://github.com/anuraghazra/github-readme-stats)
