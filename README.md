@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 ### 🌱I am...
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada)  
 ### ⚡ Working Time...
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caigentan)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=caigentan)](https://github.com/anuraghazra/github-readme-stats)
+
